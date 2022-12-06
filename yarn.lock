@@ -1205,10 +1205,10 @@ snap-shot-core@10.2.4:
     quote "0.4.0"
     ramda "0.27.1"
 
-snap-shot-it@7.9.6:
-  version "7.9.6"
-  resolved "https://registry.yarnpkg.com/snap-shot-it/-/snap-shot-it-7.9.6.tgz#042c168980a1dc3ba7ffe2bb2beeaa8e9512772d"
-  integrity sha512-t/ADZfQ8EUk4J76S5cmynye7qg1ecUFqQfANiOMNy0sFmYUaqfx9K/AWwpdcpr3vFsDptM+zSuTtKD0A1EOLqA==
+snap-shot-it@7.9.7:
+  version "7.9.7"
+  resolved "https://registry.yarnpkg.com/snap-shot-it/-/snap-shot-it-7.9.7.tgz#bee58eb15ff9ef99aff9df7b7f010b7320bdf4c1"
+  integrity sha512-znITP8sXHTtUXN1O/GTNJKxzcVRshBM3kpep5BBSjVva4XnX0EbLP/kU/hw2KqSRgawFrac853xujSYnkKYz2A==
   dependencies:
     "@bahmutov/data-driven" "1.0.0"
     check-more-types "2.24.0"
