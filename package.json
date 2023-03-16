@@ -28,6 +28,6 @@
     "mocha": "10.2.0",
     "snap-shot-it": "7.9.10",
     "sucrase": "3.29.0",
-    "typescript": "4.9.5"
+    "typescript": "5.0.2"
   }
 }
