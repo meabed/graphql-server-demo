@@ -14,7 +14,7 @@
     "cors": "2.8.5",
     "express": "4.18.2",
     "express-graphql": "0.12.0",
-    "graphql": "16.7.1",
+    "graphql": "16.8.0",
     "graphql-subscriptions": "2.0.0",
     "graphql-ws": "5.11.3",
     "ts-node": "10.9.1",
