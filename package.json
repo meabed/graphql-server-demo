@@ -16,7 +16,7 @@
     "express-graphql": "0.12.0",
     "graphql": "16.8.0",
     "graphql-subscriptions": "2.0.0",
-    "graphql-ws": "5.11.3",
+    "graphql-ws": "5.14.1",
     "ts-node": "10.9.1",
     "ws": "8.14.2"
   },
