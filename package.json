@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@types/express": "5.0.0",
-    "@types/mocha": "10.0.9",
+    "@types/mocha": "10.0.10",
     "@types/node": "22.9.3",
     "@types/ws": "8.5.13",
     "mocha": "10.8.2",
