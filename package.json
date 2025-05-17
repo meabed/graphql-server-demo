@@ -18,13 +18,13 @@
     "graphql-subscriptions": "2.0.0",
     "graphql-ws": "6.0.0",
     "ts-node": "10.9.2",
-    "ws": "8.17.1"
+    "ws": "8.18.2"
   },
   "devDependencies": {
     "@types/express": "5.0.2",
     "@types/mocha": "10.0.10",
     "@types/node": "22.15.17",
-    "@types/ws": "8.5.13",
+    "@types/ws": "8.18.1",
     "mocha": "11.3.0",
     "snap-shot-it": "7.9.10",
     "sucrase": "3.35.0",
