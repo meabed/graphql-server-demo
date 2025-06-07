@@ -21,7 +21,7 @@
     "ws": "8.18.2"
   },
   "devDependencies": {
-    "@types/express": "5.0.2",
+    "@types/express": "5.0.3",
     "@types/mocha": "10.0.10",
     "@types/node": "22.15.17",
     "@types/ws": "8.18.1",
