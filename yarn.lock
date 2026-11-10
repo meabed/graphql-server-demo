@@ -756,10 +756,10 @@ graphql-subscriptions@2.0.0:
   dependencies:
     iterall "^1.3.0"
 
-graphql-ws@6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/graphql-ws/-/graphql-ws-6.0.0.tgz#4c233776c91aa8685daac7508896a5aefde3057b"
-  integrity sha512-WiLstdkWZ2Ga9YwCqiYVnu84Kv9cgdZvdIt2GNojSYUMhuk8TLOnxBn7ioHFX4aNX3VWjjwDA3vKaLQGhtDOmw==
+graphql-ws@6.4.2:
+  version "6.4.2"
+  resolved "https://registry.yarnpkg.com/graphql-ws/-/graphql-ws-6.4.2.tgz#5ccd83619b58843fa9f724b71f48cf2dc74965e1"
+  integrity sha512-wxhPhhOGJo8PbGDkBYVE76sZLDrS+GkyrR4bZECSLVbo0pZZNKs0HtBh2Ip/uaUuiVUxwO9ssI9R92buQfNSqQ==
 
 graphql@16.8.2:
   version "16.8.2"
